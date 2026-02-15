@@ -1,16 +1,18 @@
-## Hi there 👋
+#  About Me - Muaves
 
-<!--
-**Muaves/muaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer focused on creating interactive and useful tools. My journey started with web-based Minecraft projects, and now I'm diving deep into backend architecture and command-line interfaces.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** Node.js, Express
+- **Tools:** Git, GitHub, CLI Development
+- **And much more!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- **Redstone Launcher:** A custom-built Minecraft launcher.
+- **Portfolio-CLI:** My portfolio, but in your terminal.
+- **Portfolio-API:** The engine behind my data.
+
+---
+📫 Reach me at: [Discord](https://discord.com/users/1198173046196944962)
+🔗 Visit my site: [muaves.github.io](https://muaves.github.io)
