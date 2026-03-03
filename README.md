@@ -9,6 +9,7 @@ I am a developer focused on creating interactive and useful tools. My journey st
 - **And much more!**
 
 ### 🌟 Featured Projects
+- **Templix:** An open source HTML, CSS template library!
 - **Redstone Launcher:** A custom-built Minecraft launcher.
 - **Portfolio-CLI:** My portfolio, but in your terminal.
 - **Portfolio-API:** The engine behind my data.
