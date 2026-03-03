@@ -15,4 +15,4 @@ I am a developer focused on creating interactive and useful tools. My journey st
 
 ---
 📫 Reach me at: [Discord](https://discord.com/users/1198173046196944962)
-🔗 Visit my site: [muaves.github.io](https://muaves.github.io)
+🔗 Visit my site: [muaves.com](https://muaves.com)
