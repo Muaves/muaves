@@ -17,3 +17,9 @@ I am a developer focused on creating interactive and useful tools. My journey st
 ---
 📫 Reach me at: [Discord](https://discord.com/users/1198173046196944962)
 🔗 Visit my site: [muaves.com](https://muaves.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muaves/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <img alt="GitHub Riddle Snake" src="https://raw.githubusercontent.com/Muaves/Muaves/output/github-snake.svg" />
+</picture>
